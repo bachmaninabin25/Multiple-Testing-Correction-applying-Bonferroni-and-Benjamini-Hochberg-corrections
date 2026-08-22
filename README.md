@@ -4,7 +4,9 @@ In this project, we took 20 stocks in a list, and then applied 10-15 signals, in
 
 We used multipletests from statsmodel.stats and got normal p-value test ( < 0.05), bonferoni corrction and bh correction 
 
-Our results were :-
+Our results were :- (near zuedio anna)
+
+
 
 
 Signal                     IC    p-value   Naive   Bonf     BH
